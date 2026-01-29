@@ -1,0 +1,23 @@
+# LangChain相关库
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-experimental # 🧪LangChain实验功能库
+langchain_pymupdf4llm
+langchain-docling
+
+# 向量数据库
+chromadb
+
+# 环境库
+python-dotenv
+
+# 模型库
+langchain-openai # ChatGPT
+langchain-qwq # Qwen
+dashscope # Qwen
+
+# jupyterlab相关库
+jupyterlab
+jupyterlab-language-pack-zh-CN
