@@ -10,6 +10,9 @@ langchain-docling
 # 向量数据库
 chromadb
 
+# 检索器
+rank_bm25
+
 # 环境库
 python-dotenv
 
